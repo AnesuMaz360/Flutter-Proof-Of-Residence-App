@@ -8,6 +8,16 @@ This is a proof of residency flutter web app made with Firebase. This web app al
 * [x] Password reset
 * [x] Digital Signature
 
+## Packages
+- Syncfusion Flutter Pdf
+- Syncfusion Flutter Signature Pad
+- Firebase Auth
+- Firebase Auth Web
+- Firebase Core
+- Firebase Core Web
+- Cloud Firestore
+- Cloud Firestore Web
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
