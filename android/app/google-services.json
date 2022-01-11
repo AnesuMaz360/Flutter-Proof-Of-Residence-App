@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "540120688057",
+    "project_id": "e-proof-a9a3d",
+    "storage_bucket": "e-proof-a9a3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540120688057:android:38a245981f5376cdad8268",
+        "android_client_info": {
+          "package_name": "com.example.e_proof_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540120688057-laqj6aj4ehtfgv01to1ged1mfdl4eo7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_proof_app",
+            "certificate_hash": "e50fe689fe4b8dcc9e44c1d860d6b7b2bc3226b4"
+          }
+        },
+        {
+          "client_id": "540120688057-tr45gme185l7taasaj5va81a65rtg94k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0ItRhSS2sG2a12FvOGS1gujsX7lYUWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540120688057-tr45gme185l7taasaj5va81a65rtg94k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
